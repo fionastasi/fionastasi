@@ -1,8 +1,9 @@
 # Fiona
 
-Robotics and Digital Systems Engineering student specializing in **control systems** and **embedded software**.
+Robotics & Digital Systems Engineering student specializing in cyber-physical systems, control, and embedded software.
 
-- Focused on real-time systems, sensor fusion, and low-level programming
-- Currently interning at Harman (GM Group) – testing and validating automotive audio systems
-- Active member of a student motorsport team, developing control strategies for competitive vehicles
-- Tools & languages: C++, Python, MATLAB/Simulink, ROS2 Humble, Arduino
+**Currently working on** a real-time telemetry system for my university's racing team.
+**Recently** interned at Harman (GM Group), validating automotive audio systems.
+**Looking to** engineer control systems for high-performance racing
+
+> Tools: C++, Python, MATLAB/Simulink, ROS2 Humble, Arduino
