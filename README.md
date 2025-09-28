@@ -7,4 +7,5 @@ Robotics & Digital Systems Engineering student specializing in cyber-physical sy
   - **Looking to** engineer control systems for high-performance racing.
 <br>
 > Tools: C++, Python, MATLAB/Simulink, ROS2 Humble, Arduino
+> <br>
 > Linkedin: www.linkedin.com/in/stasifiona
